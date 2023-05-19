@@ -1,4 +1,3 @@
 # Curso Digital: Git/Versionamento
 
-#Salvando modificações do repositorio
-#Testando
+#Git log e restore
